@@ -24,4 +24,13 @@ In Linux, the kill command is particularly helpful for manually ending a process
 ## 8.cat
 The cat command reads each File parameter in sequence and writes it to standard output. 
 
-## 9.
+## 9.fold
+The fold command in Linux wraps each line in an input file to fit a specified width and prints it to the standard output.
+
+## 10.man
+The man command in Linux is used to display the user manual of any command that we can run on the terminal.
+
+
+
+
+

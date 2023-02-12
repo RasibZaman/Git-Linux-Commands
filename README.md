@@ -33,6 +33,7 @@ The fold command in Linux wraps each line in an input file to fit a specified wi
 The man command in Linux is used to display the user manual of any command that we can run on the terminal.
 
 
+# --------------------Git Commands--------------------
 
 
 
